@@ -1,0 +1,6 @@
+
+
+class Person:
+    # attributes
+
+    # method
